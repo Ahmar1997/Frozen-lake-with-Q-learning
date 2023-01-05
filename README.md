@@ -2,6 +2,9 @@
 
 Frozen lake involves crossing a frozen lake from start to goal without falling into any holes by walking over the frozen lake. The player may not always move in the intended direction due to the slippery nature of the frozen lake.
 
+![frozen lake](https://user-images.githubusercontent.com/116836999/210900902-881f2740-33f9-4458-8f74-e8c0ae82b5ca.jpg)
+
+
 # Description
 The game starts with the player at location [0,0] of the frozen lake grid world with the goal located at far extent of the world e.g. [3,3] for the 4x4 environment.
 
